@@ -1,5 +1,18 @@
 # ETNA-Linter
+
 Documentation for the installation for the ETNA Linter
+
+1. Create an alias to the command
+
+```bash
+$ alias eslint='./node_module/.bin/eslint
+```
+
+2. Execute the linter on your file
+
+```bash
+$ eslint {{yourfile}}.ts
+```
 
 # License
 
